@@ -1,0 +1,23 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d resume"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajkumarpatel03/resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajkumarpatel03/resume/issues"
+  },
+  "homepage": "https://rajkumarpatel03.github.io/MyResume",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
