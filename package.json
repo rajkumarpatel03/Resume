@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/rajkumarpatel03/resume/issues"
   },
-  "homepage": "https://rajkumarpatel03.github.io/MyResume",
+  "homepage": "https://rajkumarpatel03.github.io/resume",
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
