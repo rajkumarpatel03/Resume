@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "1.0.0",
   "description": "",
-  "main": "index1.js",
+  "main": "index1.html",
   "dependencies": {
     "array-union": "^1.0.2",
     "array-uniq": "^1.0.3",
